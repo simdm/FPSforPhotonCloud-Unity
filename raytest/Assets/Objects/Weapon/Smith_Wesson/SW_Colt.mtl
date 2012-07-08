@@ -1,0 +1,119 @@
+newmtl Barrel
+Ns 256
+d 1
+illum 2
+Kd 0.78 0.78 0.78
+Ks 1 1 1
+
+newmtl Default
+Ns 256
+d 1
+illum 2
+Kd 0.78 0.78 0.78
+Ks 1 1 1
+
+newmtl Frame_Screw
+Ns 256
+d 1
+illum 2
+Kd 0.78 0.78 0.78
+Ks 1 1 1
+
+newmtl Grip
+Ns 256
+d 1
+illum 2
+Kd 0.78 0.78 0.78
+Ks 1 1 1
+
+newmtl Grip_Panel_Screw
+Ns 256
+d 1
+illum 2
+Kd 0.78 0.78 0.78
+Ks 1 1 1
+
+newmtl Grip_Safety
+Ns 256
+d 1
+illum 2
+Kd 0.78 0.78 0.78
+Ks 1 1 1
+
+newmtl Hammer
+Ns 256
+d 1
+illum 2
+Kd 0.78 0.78 0.78
+Ks 1 1 1
+
+newmtl Magazine
+Ns 256
+d 1
+illum 2
+Kd 0.78 0.78 0.78
+Ks 1 1 1
+
+newmtl Magazine_Butt
+Ns 256
+d 1
+illum 2
+Kd 0.78 0.78 0.78
+Ks 1 1 1
+
+newmtl Magazine_Release
+Ns 256
+d 1
+illum 2
+Kd 0.78 0.78 0.78
+Ks 1 1 1
+
+newmtl Mainspring_Housing
+Ns 256
+d 1
+illum 2
+Kd 0.78 0.78 0.78
+Ks 1 1 1
+
+newmtl Recoil_Spring_Guide
+Ns 256
+d 1
+illum 2
+Kd 0.78 0.78 0.78
+Ks 1 1 1
+
+newmtl Safety_Lock
+Ns 256
+d 1
+illum 2
+Kd 0.78 0.78 0.78
+Ks 1 1 1
+
+newmtl Sight
+Ns 256
+d 1
+illum 2
+Kd 0.78 0.78 0.78
+Ks 1 1 1
+
+newmtl Slide
+Ns 256
+d 1
+illum 2
+Kd 0.78 0.78 0.78
+Ks 1 1 1
+
+newmtl Slide_Stop
+Ns 256
+d 1
+illum 2
+Kd 0.78 0.78 0.78
+Ks 1 1 1
+
+newmtl Trigger
+Ns 256
+d 1
+illum 2
+Kd 0.78 0.78 0.78
+Ks 1 1 1
+
