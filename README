@@ -1,0 +1,22 @@
+Photon Cloud is useful. But there is no tutorials of FPS game.
+Therefore I made the FPS sample game with Photon Cloud.  
+If you want to make your own FPS game , you can use this sample project for free.
+
+steps;
+
+1.Download "raytest" project
+
+2.go to the directry "Assets" to open the file "level1" to the open Unity project.
+
+3.If you don't have photon cloud account, goto https://cloud.exitgames.com/ and sign up.
+
+4.Go to your photon cloud account and get "Application ID"
+
+5.Go to unity project that you opened.  Open set up dialog by menubar "Window - Photon Unity Networking"
+
+6.Push setting button, paste your Application ID, save it. (notice;Already inputed Id, it cant use)
+
+7.Let's Play!
+
+You can edit the project and publish for free.
+If you have questions please ask me "edofrank.info@gmail.com"
